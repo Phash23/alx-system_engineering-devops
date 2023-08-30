@@ -1,2 +1,2 @@
 #!/bin/bash
-1n -s /bin/13
+ln -s /bin/ls
